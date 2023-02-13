@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Saiful, a full-time full-stack web developer  🚀</div>  
+### <div align="center">I'm Saiful, a full-stack web developer  🚀</div>  
   
 
 - 🔭 I’m currently working on social media app.  
