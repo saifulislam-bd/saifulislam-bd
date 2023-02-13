@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on social media app.  
   
 
-- 🌱 I’m currently learning Blockchain Technoogy.  
+- 🌱 I’m currently learning Blockchain Technology.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
