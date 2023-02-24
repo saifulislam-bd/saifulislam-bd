@@ -16,6 +16,8 @@
   
 
 - ⚡ Fun fact: If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.  
+
+<a href="https://app.daily.dev/saiful9840"><img src="https://api.daily.dev/devcards/4103f566eca4415b813a9d934de03920.png?r=1sx" width="400" alt="Saiful Islam's Dev Card"/></a>
   
 
 <br/>  
