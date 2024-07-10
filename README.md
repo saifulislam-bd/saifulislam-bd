@@ -6,10 +6,10 @@
 ### <div align="center">I'm Saiful, a full-stack web developer  🚀</div>  
   
 
-- 🔭 I’m currently working on social media app.  
+- 🔭 I’m currently working on a social media app.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 - ⚡ Fun fact: If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.  
@@ -91,10 +91,10 @@
 <a href="https://linkedin.com/in/saiful-islam-dev22" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/saifulislam.9840" target="_blank">
+<a href="https://www.facebook.com/saiful.geek" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/saifulislam.9840" target="_blank">
+<a href="https://instagram.com/saiful.geek" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
